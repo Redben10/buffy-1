@@ -12,7 +12,7 @@ console.log(`
 `);
 
 const server = http.createServer();
-const url = "https://redben1000.netlify.app";
+const url = "https://e.widgetbot.io/channels/1130337260294918225/1130337260835967039?api=0b011109-5d97-425f-9222-ddf13866222d";
 const PORT = process.env.PORT || 8080;
 
 server.on('request', async (req, res) => {
